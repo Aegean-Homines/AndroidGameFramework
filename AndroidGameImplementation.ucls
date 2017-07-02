@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="com.egemen.framework.implementation.AndroidGame" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="357" width="180" x="904" y="390"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="android.app.Activity" project="AndroidGame" 
+    file="D:/adt-bundle-windows-x86_64-20130917/sdk/platforms/android-18/android.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="313" width="487" x="377" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.egemen.framework.implementation.AndroidAudio" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidAudio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="182" x="377" y="787"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.egemen.framework.implementation.AndroidFastRenderView" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidFastRenderView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="214" width="297" x="904" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.egemen.framework.implementation.AndroidFileIO" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidFileIO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="230" x="1182" y="787"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.egemen.framework.implementation.AndroidGraphics" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidGraphics.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="394" width="341" x="1452" y="787"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.egemen.framework.implementation.AndroidImage" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidImage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="234" x="1559" y="1221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.egemen.framework.implementation.AndroidInput" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidInput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="238" x="904" y="787"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.egemen.framework.implementation.AndroidMusic" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidMusic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="291" x="277" y="1221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.egemen.framework.implementation.AndroidSound" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/AndroidSound.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="196" x="41" y="1221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.egemen.framework.implementation.MultiTouchHandler" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/MultiTouchHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="376" width="425" x="608" y="1221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.egemen.framework.implementation.SingleTouchHandler" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/SingleTouchHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="322" width="425" x="1073" y="1221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="com.egemen.framework.implementation.TouchHandler" project="AndroidGame" 
+    file="/AndroidGame/src/com/egemen/framework/implementation/TouchHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="232" x="1180" y="1637"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <dependency id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="16">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="17" name="game"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <realization id="23">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <realization id="26">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <dependency id="27">    
+    <bendpoint x="386" y="390"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="30">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="31" name="renderView"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="1528" y="1221"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="34" name="touchHandler"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
